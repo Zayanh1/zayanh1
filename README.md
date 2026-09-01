@@ -20,7 +20,7 @@ I'm a Computer Science student at the **University of Georgia (Morehead Honors C
   </a>
 - 🎙️ **Current Focus:** Voice AI agents, full-stack relationship management tools, and personal knowledge systems.
 - 💼 **Experience:** Previous Network Operations Intern @ GreenSky | Tech Support @ Forsyth County Schools | Data Destruction Specialist @ GCI.
-- 📬 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/zayanh1/) | [Portfolio](https://zayanh1.github.io) 
+- 📬 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/zayanh1/) | [Portfolio](https://zayan.hoodani.me) 
 
 ---
 
