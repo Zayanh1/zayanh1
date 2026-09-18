@@ -31,7 +31,7 @@ I'm a Computer Science student at the **University of Georgia (Morehead Honors C
     <td width="50%" valign="top">
       <h3>
         <a href="https://github.com/Zayanh1/zayan-brain" style="color: #f9906f; text-decoration: none;">
-          🧠 AI-Chief of Staff / Second Brain
+          AI-Chief of Staff / Second Brain
         </a>
       </h3>
       <p>An intelligent digital Chief of Staff that combines <b>voice recognition</b> with automated knowledge management. Captures thoughts on the go and uses AI to automatically structure, organize, and synthesize notes into an automated <b>Obsidian</b> vault.</p>
@@ -40,7 +40,7 @@ I'm a Computer Science student at the **University of Georgia (Morehead Honors C
     <td width="50%" valign="top">
       <h3>
         <a href="https://network.hoodani.me" style="color: #f9906f; text-decoration: none;">
-          🤝 Networking CRM
+          Networking CRM
         </a>
       </h3>
       <p>A full-stack professional relationship management platform. Features automated contact tracking, LinkedIn profile scraping, and priority outreach recommendations with strict API rate limiting.</p>
@@ -51,7 +51,7 @@ I'm a Computer Science student at the **University of Georgia (Morehead Honors C
     <td width="50%" valign="top">
       <h3>
         <a href="https://github.com/SSSCoder-Sys/vital-medic-scribe" style="color: #f9906f; text-decoration: none;">
-          🚑 V.I.T.A.L.
+          V.I.T.A.L.
         </a>
       </h3>
       <p>Hands-free AI medical scribe for paramedics. Transcribes audio in real-time via <b>Amazon Nova 2 Sonic</b>, extracts vitals, and auto-populates EMS protocol checklists. <i>(1st Place @ Amazon Nova AI Hackathon)</i>.</p>
@@ -60,7 +60,7 @@ I'm a Computer Science student at the **University of Georgia (Morehead Honors C
     <td width="50%" valign="top">
       <h3>
         <a href="https://chromewebstore.google.com/detail/gfcmcbfdnikeppndefncfhmpcmilpeoa" style="color: #f9906f; text-decoration: none;">
-          📱 VibeGrid
+          VibeGrid
         </a>
       </h3>
       <p>A lightweight, serverless Chrome Extension that transforms the New Tab page into a portable video wallpaper with offline TikTok loop syncing and zero inactive CPU footprint.</p>
